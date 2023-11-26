@@ -16,18 +16,27 @@ miscutils is a set of simple components that provide some functions for developm
 it consists of a tabbed view, with 3 tabs that provide the following functionality:
 
 ### convert
+
+<img src="assets/conv.png" width=25% height=25%>
+
 - two-way conversion tools to/from text and the following:
   - base64
   - hex
   - binary
+
 ### hash
-<img src="assets/hash.png" width=50% height=50%>
+
+<img src="assets/hash.png" width=25% height=25%>
+
 - one-way hashing using the following algorithms:
   - md5
   - sha256
   - bcrypt
+
 ### qrcode
-<img src="assets/qrcode.png" width=50% height=50%>
+
+<img src="assets/qrcode.png" width=25% height=25%>
+
 - qr code generation from a string of text
 
 ## external dependencies
