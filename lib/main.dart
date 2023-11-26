@@ -17,6 +17,7 @@ class MiscUtils extends StatelessWidget {
     SystemChrome.setPreferredOrientations(
         [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: "miscutils",
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(

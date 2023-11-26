@@ -1,4 +1,5 @@
-# miscutils
+# ![miscutils.svg](assets/miscutils.svg)
+
 
 ## CSCI-410 project, part 1
 
@@ -14,14 +15,20 @@ miscutils is a set of simple components that provide some functions for developm
 
 it consists of a tabbed view, with 3 tabs that provide the following functionality:
 
+### convert
+![conv.png](assets/conv.png)
 - two-way conversion tools to/from text and the following:
   - base64
   - hex
   - binary
+### hash
+![hash.png](assets/hash.png)
 - one-way hashing using the following algorithms:
   - md5
   - sha256
   - bcrypt
+### qrcode
+![qrcode.png](assets/qrcode.png)
 - qr code generation from a string of text
 
 ## external dependencies
