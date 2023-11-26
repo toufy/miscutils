@@ -10,7 +10,6 @@ void main() {
 class MiscUtils extends StatelessWidget {
   const MiscUtils({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     // force portrait mode
