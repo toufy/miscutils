@@ -1,0 +1,6 @@
+package org.codeberg.toufy.miscutils
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
