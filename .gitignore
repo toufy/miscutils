@@ -45,3 +45,4 @@ app.*.map.json
 # unnecessary stuff
 test
 pubspec.lock
+/dist/
